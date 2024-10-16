@@ -1,0 +1,18 @@
+#PARAX1{
+  text-align: justify;
+  padding-bottom: 4rem;
+}
+
+.circle {
+  background-color: #E5406A;
+  font-weight: 600;
+  border-radius: 50%;
+  width: 40px;  /* Fixed width */
+  height: 40px; /* Fixed height */
+  color: #ffffff;
+  display: inline-block;
+  text-align: center;
+  line-height: 40px; /* Matches the height to center the text */
+  font-size: .9rem; /* Adjust font size if needed */
+}
+
